@@ -1,4 +1,4 @@
-# PostRoleAnnotation
+# Post Support Type Prediction
 This trains a Distill BERT classifier for different roles of post like emotion, advice, opinion, personal background
 
 The inference is used to obtain the class of new datafiles
