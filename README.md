@@ -6,7 +6,7 @@ The inference is used to obtain the class of new datafiles
 
 
 
-The seven codes and no of incidents of each are tabulated below:
+The seven codes and no of examples we used to train each code:
 
 
 <table>
