@@ -76,6 +76,8 @@ The seven codes and no of incidents of each are tabulated below:
   </tr>
 </table>
 
+To obtain the API for calling our model - please contact k.thaker@pitt.edu
+
 The table below shows the performance of each class:
 
 <table>
