@@ -1,5 +1,7 @@
-# PostRoleAnnotation
+# Post Support Type Prediction
 This trains a Distill BERT classifier for different roles of post like emotion, advice, opinion, personal background
+
+The inference is used to obtain the class of new datafiles
 
 
 
@@ -73,6 +75,8 @@ The seven codes and no of incidents of each are tabulated below:
    </td>
   </tr>
 </table>
+
+To obtain the API for calling our model - please contact k.thaker@pitt.edu
 
 The table below shows the performance of each class:
 
@@ -153,16 +157,7 @@ Support Type
    <td>0.816
    </td>
   </tr>
-  <tr>
-   <td>Others
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
+  
   <tr>
    <td><strong>Average</strong>
    </td>
