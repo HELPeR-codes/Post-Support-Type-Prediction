@@ -157,16 +157,7 @@ Support Type
    <td>0.816
    </td>
   </tr>
-  <tr>
-   <td>Others
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
+  
   <tr>
    <td><strong>Average</strong>
    </td>
